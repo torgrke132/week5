@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#output {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#userChoice {
+    padding: 8px;
+    font-size: 16px;
+}
+
+#playBtn {
+    margin: 2rem;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
